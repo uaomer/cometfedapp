@@ -1,0 +1,42 @@
+#### Mandatory fields ####
+##set master, worker, tuple class
+MasterClass=tassl.automate.application.MatrixMultiplication.MatrixMaster
+WorkerClass=tassl.automate.application.MatrixMultiplication.MatrixWorker
+TaskClass=tassl.automate.application.MatrixMultiplication.MatrixTaskTuple
+
+##Set routing keys defined in squid.properties and chord.properties
+RoutingKeys=TaskId
+    
+#### Optional fields ####
+##Period to check missing tasks in the Comet space (milli-second).
+TaskMonitoringPeriod=10000
+    
+##Master task generation controller for the large number of tasks
+#OUTCONTROLLER=true
+#OUTCONTROLLER_CHECKPERIOD=100
+#OUTCONTROLLER_LOWER=5
+#OUTCONTROLLER_OUTTASK=10
+
+##Enable master hierarchy
+#ResultCollectingMaster=glitch.rutgers.edu
+
+##Replication enable
+ReplicationEnable=false
+
+##Set waiting time for overlay stabilization (ms), longer value for larger overlay
+#OVERLAY_SETUP_WAITING=40000
+
+##Set Proxy for Isolated Worker
+IsolatedProxy=localhost
+
+##Set CustomizedTaskSelection class (in RequestHandler)
+#CustomizedTaskClass=
+
+##Set CloudBridgingScheduler class
+#Scheduler format should be the same as described in exception file
+#Scheduler=glitch.rutgers.edu:5555
+#SchedulerClass=tassl.automate.programmodel.masterworker.sample.CustomizedAppScheduler
+
+##Location of scripts (launch/terminate) to handling Linux cluster for autonomic cloudbursts.
+#WorkingDir=
+#comet.DEBUG=overlayControl,MemoryMon

@@ -1,0 +1,6 @@
+0   AC11-Institute-Var-2-en-IFC1_v4.ifc   A   S1   l2014-06-10-15:59:30
+0   AC13-Institute-Var-2-en-IFC1_v4.ifc   B   S3   l2014-06-10-19:59:30
+0   AC13-Institute-Var-2-en-IFC1_v71.ifc   C   S4   l2014-06-10-18:59:30
+19   IfcPostalAddress   C   S   l2014-06-10-17:59:30	
+20   IfcPostalAddress1   D   W   l2014-06-10-13:59:30
+20   IfcPostalAddress1   D   A   l2014-06-10-13:59:30

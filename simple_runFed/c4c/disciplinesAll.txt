@@ -1,0 +1,20 @@
+A   Architects
+L   Landscape Architects
+B   Building Surveyors	
+M   Mechanical Engineers
+C   Civil Engineers	
+P   Public Health Engineers
+D   Drainage  Sewage and Road Engineers	
+Q   Quantity Surveyors
+E   Electrical Engineers	
+S   Structural Engineers
+F   Facilities Managers	
+T   Town and Country Planners
+G   GIS Engineers and Land Surveyors	
+W   Contractors
+H   Heating and Ventilation Engineers	
+X   Sub-Contractors
+I   Interior Designers	
+Y   Specialist Designers
+K   Client
+Z   Ana

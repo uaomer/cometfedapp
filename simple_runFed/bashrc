@@ -1,0 +1,20 @@
+# do not run this script instead source it e.g. (source bashrc)
+#!/bin/sh
+# update classpath
+CP=.
+for f in ../lib/*.jar
+do
+  CP=$CP:"$f"
+done
+for f in ../dist/*.jar
+do
+  CP=$CP:"$f"
+done
+# add your own jar to the classpath 
+# for netbeans use
+#CP=$CP:../dist/*.jar
+# 
+# CLASSPATH=$CP
+export CLASSPATH=$CP:$CLASSPATH
+chmod +x start*
+

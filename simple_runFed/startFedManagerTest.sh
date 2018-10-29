@@ -1,0 +1,2 @@
+java -Xms256m -Xmx1024m -cp $CLASSPATH tassl.automate.federation.FedResourceManager -nodeFile nodeFile -portFile portFile  -exceptionFile exceptionFile -propertyFile chord.properties -propertyFile squid.properties -propertyFile comet.properties -propertyFile app.properties -propertyFile meteor.properties -subscriptionFile subscriptions.properties -bootstrapnodesFile bootstrapnodes.properties -managerPublicName dell01.rutgers.edu -infoServicePort 5561 -scenarioSite scenarioSite.properties 
+#-overlayPort 

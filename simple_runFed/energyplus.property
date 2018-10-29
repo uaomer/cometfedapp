@@ -1,0 +1,7 @@
+p1=16,18
+p2=0,1
+p3=1
+p4=1
+idf=template.idf
+weather=weather.epw
+script=energyplus.sh

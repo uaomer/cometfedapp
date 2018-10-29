@@ -1,0 +1,5 @@
+W   Work in Progress
+S   Shared
+P   Published
+A   Archive
+Z   Ana

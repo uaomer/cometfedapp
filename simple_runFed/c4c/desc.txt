@@ -1,0 +1,4 @@
+---------START----------
+Difference in Line 4 :- Actual File contains :FILE_NAME ('C:\\Users\\nick\\Documents\\My Projects\\ukgov wp106-preparation\\models\\AC11-Institute-Var-2-en-IFC.ifc', '2013-05-15T12:00:00', ('Nisbet', 'Nicholas'), ('AEC3 UK Ltd'), 'BimServices', 'BimServices Transform64 v2013-05-15T12:00:00', ' using RDF Ltd IfcEngine.');, Expected File Contains : FILE_NAME ('C:\\Users\\nick\\Documents\\My Projects\\ukgov wp106-preparation\\models\\AC11-Institute-Var-2-en-IFC_v4.ifc', '2013-05-15T12:00:00', ('Nisbet', 'Nicholas'), ('AEC3 UK Ltd'), 'BimServices', 'BimServices Transform64 v2013-05-15T12:00:00', ' using RDF Ltd IfcEngine.');
+Difference in Line 13 :- Actual File contains :#15 = IFCPERSON('007', 'Haefele', 'Karl-Heinz', $, $, $, $, (#6, #9, #12));, Expected File Contains : #15 = IFCPERSON('007a', 'Haefele', 'Karl-Heinz', $, $, $, $, (#6, #9, #12));
+-----------END----------

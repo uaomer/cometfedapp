@@ -1,0 +1,9 @@
+17   A   W   18   17   version
+20   C   S   21   20   derivation
+22   E   S   23   22   derivation
+23   F   A   24   23   version
+24   G   S   25   24   derivation
+25   H   A   26   25   version
+26   A   S   27   26   derivation
+27   B   A   28   27   version
+28   C   S   29   28   derivation

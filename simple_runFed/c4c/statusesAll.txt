@@ -1,0 +1,13 @@
+SO   Initial Status or Work in Progress
+S1   Fit for Coordination
+S2   Fit For Information
+S3   Fit for Internal review and comment
+S4   Fit for construction approval
+D1   Fit for Costing
+D2   Fit for Tender
+D3   Fit for Contractors Design
+D4   Fit for Manufacture / Procurement
+A   Fit for Construction
+B   Partially Signed Off
+AB   As Built
+Z   Petri
